@@ -39,7 +39,7 @@ const Hero = () => {
               initial={{ scale: 0, rotate: 180 }}
               animate={{ scale: 1, rotate: 0 }}
               transition={{ type: "spring", stiffness: 260, damping: 20 }}
-              src="\img\profile.jpg"
+              src="https://ucarecdn.com/0d7085cc-42ed-46ee-8cd1-08272a61358a/profile.jpg"
               alt="Profile"
               className="w-[15rem] h-[15rem] rounded-full mx-auto mb-6 shadow-2xl ring-4 ring-white dark:ring-gray-700"
             />
